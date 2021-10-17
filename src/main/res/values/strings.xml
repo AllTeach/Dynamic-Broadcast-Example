@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Dynamic Broadcast Example</string>
+    <string name="headset_register">Headset Register</string>
+    <string name="headset_unregister">Headset UnRegister</string>
 </resources>

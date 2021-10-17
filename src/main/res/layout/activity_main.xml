@@ -17,7 +17,7 @@
         android:onClick="headsetReceiverClick"
         android:rotationX="-21"
         android:rotationY="12"
-        android:text="Headset Register"
+        android:text="@string/headset_register"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
